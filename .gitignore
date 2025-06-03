@@ -2,4 +2,8 @@ tmp/todo.txt
 <<<<<<< HEAD
 =======
 tmp/*
+<<<<<<< HEAD
+>>>>>>> master
+=======
+*.xml
 >>>>>>> master
